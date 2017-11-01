@@ -12,8 +12,10 @@ use App\Factory\VehicleInterface;
 
 class Car implements VehicleInterface
 {
-    private $seat;
 
+    /**
+     * @param int $num
+     */
     public function setSeat(int $num)
     {
         $this->seat = $num;

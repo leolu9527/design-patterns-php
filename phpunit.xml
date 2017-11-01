@@ -2,6 +2,7 @@
 <phpunit bootstrap="./vendor/autoload.php" verbose="true">
     <testsuite>
         <directory suffix="AbstractFactoryTest.php">./tests</directory>
+        <directory suffix="SimpleFactoryTest.php">./tests</directory>
     </testsuite>
 
     <!--<filter>-->
