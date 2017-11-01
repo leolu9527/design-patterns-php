@@ -12,7 +12,7 @@ use App\SimpleFactory\Bicycle;
 
 class SimpleFactoryTest extends TestCase
 {
-    public function testCanCreateHtmlText()
+    public function testCanCreateBicycle()
     {
         $factory = new SimpleFactory();
         $b = $factory->createBicycle();
