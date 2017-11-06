@@ -1,6 +1,6 @@
 <?php
 /**
- * 适配器模式
+ * 适配器模式,接口转换
  */
 
 namespace App\Adapter;

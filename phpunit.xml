@@ -4,6 +4,7 @@
         <directory suffix="AbstractFactoryTest.php">./tests</directory>
         <directory suffix="SimpleFactoryTest.php">./tests</directory>
         <directory suffix="SingletonTest.php">./tests</directory>
+        <directory suffix="AdapterTest.php">./tests</directory>
     </testsuite>
 
     <!--<filter>-->
